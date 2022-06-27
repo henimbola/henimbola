@@ -11,7 +11,7 @@ There are many technologies I love working with like React.js, Angular, Sring Bo
 - Dart
 - Python
 
-### Frameworkd
+### Framework
 - Spring Boot
 - React / Next
 - Angular
