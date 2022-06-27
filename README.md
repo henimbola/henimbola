@@ -1,5 +1,3 @@
-<h1 style="text-align: center">Henimbola Andrianatoandro</h1>
-
 <img alt="Henimbola Andrianatoandr banner" src="assets/heni-banner.png"/>
 
 I am a software engineer who is passionate about making open-source more available. I love to create sample, to commit myself in programming technologies.
