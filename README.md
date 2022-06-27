@@ -17,4 +17,6 @@ There are many technologies I love working with like React.js, Angular, Sring Bo
 - Angular
 - Flutter
 
+<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/dartlang/dartlang-icon.svg" />
+
 ### Reach me at [henimbola@gmail.com](henimbola@gmail.com) if you need me
