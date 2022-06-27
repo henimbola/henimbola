@@ -5,6 +5,7 @@ There are many technologies I love working with like React.js, Angular, Sring Bo
 
 ## Skills
 
+<p align="left">
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="cassandra" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="cassandra" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="cassandra" width="40" height="40"/>
@@ -19,6 +20,6 @@ There are many technologies I love working with like React.js, Angular, Sring Bo
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="cassandra" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="cassandra" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="cassandra" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="cassandra" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="cassandra" width="40" height="40"/></p>
 
 ### Reach me at [henimbola@gmail.com](henimbola@gmail.com) if you need me
