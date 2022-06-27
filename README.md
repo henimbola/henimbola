@@ -22,4 +22,7 @@ There are many technologies I love working with like React.js, Angular, Sring Bo
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="cassandra" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="cassandra" width="40" height="40"/></p>
 
-### Reach me at [henimbola@gmail.com](henimbola@gmail.com) if you need me
+### Reach out to me on the web :
+- Connect : [Linkedin](https://www.linkedin.com/in/henimbola-tsihala-andrianatoandro-1a564a170/)
+- Email me : [henimbola@gmail.com](henimbola@gmail.com)
+- Follow on [twitter](https://twitter.com/henimbola)
