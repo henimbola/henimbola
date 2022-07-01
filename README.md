@@ -20,7 +20,8 @@ There are many technologies I love working with like React.js, Angular, Sring Bo
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="cassandra" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="cassandra" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="cassandra" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="cassandra" width="40" height="40"/></p>
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="cassandra" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="cassandra" width="40" height="40"/></p>
 
 ### Reach out to me on the web :
 - Connect : [Linkedin](https://www.linkedin.com/in/henimbola-tsihala-andrianatoandro-1a564a170/)
