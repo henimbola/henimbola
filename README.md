@@ -21,6 +21,9 @@ There are many technologies I love working with like React.js, Angular, Sring Bo
 
 ## My Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=henimbola&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henimbola&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Skills
 
 <p align="left">
