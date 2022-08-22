@@ -1,5 +1,21 @@
-<img alt="Henimbola Andrianatoandr banner" src="assets/heni-banner.png"/>
 
+<div align="center">
+    <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="" height="150"/>
+    <div id="badges">
+    <a href="https://www.linkedin.com/in/henimbola-tsihala-andrianatoandro-1a564a170/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://twitter.com/henimbola">
+        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+    </div>
+    <h1>
+        Hello World
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    </h1>
+</div>
+
+<img alt="Henimbola Andrianatoandr banner" src="assets/heni-banner.png"/>
 I am a software engineer who is passionate about making open-source more available. I love to create sample, to commit myself in programming technologies.
 There are many technologies I love working with like React.js, Angular, Sring Boot, Express.js and so on. But I know that the most important topics in programming are to be good in algorithms, architectures, design patterns, etc. To be better at software engineering, I'm trying to code every day. I will be very happy to work with everyone in an open source project.
 
